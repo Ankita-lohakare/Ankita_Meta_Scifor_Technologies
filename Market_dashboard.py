@@ -1,7 +1,3 @@
-pip install yfinance 
-pip install matplotlib
-pip install textblob
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
