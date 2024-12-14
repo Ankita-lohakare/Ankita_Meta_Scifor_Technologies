@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Diet recommendation system
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ankita
+    family-names: Lohakare
+    email: lohakareankita123@gmail.com
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1003150
+    description: Diet Recommendation System
+repository-code: >-
+  https://github.com/Ankita-lohakare/Ankita_Meta_Scifor_Technologies
+abstract: |2-
+   People from all around the world are getting more
+    concerned in their health and way of life in today's
+    modern environment. However, avoiding junk food and
+    exercising alone are insufficient; we also need to eat a
+    balanced diet. We can live a healthy life with a balanced
+    diet based on our height, weight, and age. Your diet can
+    help you achieve and maintain a healthy weight, lower your
+    chance of developing chronic diseases (including cancer
+    and heart disease), and improve your general health when
+    combined with physical activity. Nevertheless, there is a
+    little SOTA project on food/diet recommendation system.
+    Therefore we propose a content-based recommendation system
+    for this purpose using machine learning.
+keywords:
+  - Machine Learning
+  - Python
+  - Recommendation systems
+license: Apache-2.0
+commit: 1ff847d81f29c45a3a1a5ce73d38e45c2f319bba
+version: 1.0.0
+date-released: '2024-12-14'
